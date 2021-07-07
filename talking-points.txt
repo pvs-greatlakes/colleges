@@ -1,0 +1,22 @@
+Talking points
+
+AI is the branch of Computer Sciences that emphasizes the development of intelligence machines, thinking and working like humans. For example, Speech Recognition, Image recognition, learning & planning.
+
+Machine Learning is a branch of artificial intelligence and as defined by Computer Scientist and ML pioneer Tom M Mitchell.  Machine Learning is the study of computer algorithms that allow computer programs to automatically improve through experience.
+
+Deep Learning is a computer software that mimics the network of neurons in a brain. It is a subset of machine learning and is called deep learning because it makes use of deep neural network. 
+
+A Deep neural network is a neural network with a certain level of complexity, a neural network with multiple hidden layers. Deep refers to a model's layers being multiple layers deep. 
+
+An artificial neural network involves a network of simple processing elements (artificial neurons) which can exhibit complext global behavior, determined by the connections between the processing elements and element parameters. 
+
+
+
+
+Ref:
+https://builtin.com/artificial-intelligence
+https://medium.com/towards-artificial-intelligence/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6
+https://www.guru99.com/machine-learning-vs-deep-learning.html#:~:text=Artificial%20intelligence%20is%20imparting%20a%20cognitive%20ability%20to%20a%20machine.,-Early%20AI%20systems&text=The%20idea%20behind%20machine%20learning,the%20field%20of%20artificial%20intelligence.
+https://www.techopedia.com/definition/32902/deep-neural-network
+https://www.bmc.com/blogs/deep-neural-network/
+https://en.wikipedia.org/wiki/Neural_network
